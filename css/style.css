@@ -11,6 +11,10 @@ body {
 
 /* utili */
 
+.p-10 {
+  padding: 10px;
+}
+
 .m-20 {
   margin-top: 20px;
 }
@@ -40,7 +44,7 @@ body {
 }
 
 .s-around {
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .p-5 {
@@ -115,6 +119,10 @@ button {
 
 }
 
+ul {
+  list-style-type: none
+}
+
 .divisore {
   padding: 50px;
 }
@@ -154,4 +162,8 @@ button {
 
 .c-tabella {
   flex-basis: 30%
+}
+
+.boder {
+  border: 2px lightgray solid;
 }
