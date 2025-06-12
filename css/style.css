@@ -40,7 +40,7 @@ body {
 }
 
 .s-around {
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .p-5 {
@@ -148,7 +148,10 @@ button {
   gap: 20px;
 }
 
-.c-tabella {
-  width: calc(100% - 3);
+.colonne-t {
+  gap: 30px;
+}
 
+.c-tabella {
+  flex-basis: 30%
 }
