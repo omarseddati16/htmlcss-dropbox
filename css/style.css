@@ -123,6 +123,12 @@ ul {
   list-style-type: none
 }
 
+li {
+  list-style-type: none
+}
+
+
+
 .divisore {
   padding: 50px;
 }
@@ -161,7 +167,12 @@ ul {
 }
 
 .c-tabella {
-  flex-basis: 30%
+  flex-basis: 30%;
+  background-color: white;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: left;
 }
 
 .boder {
