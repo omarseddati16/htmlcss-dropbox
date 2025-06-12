@@ -11,6 +11,18 @@ body {
 
 /* utili */
 
+.p-top {
+  padding-top: 20px;
+}
+
+.m-top40 {
+  margin-top: 40px;
+}
+
+.d-column {
+  flex-direction: column;
+}
+
 .wrap {
   flex-wrap: wrap;
 }
@@ -74,8 +86,6 @@ body {
 /* Header */
 
 
-
-
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -90,21 +100,3 @@ body {
 }
 
 /* Main */
-
-.container-sezione {
-  background-color: #0f2192;
-}
-
-.col-60 {
-  width: 30%;
-}
-
-.col-40 {
-  width: 70%;
-}
-
-.col-60,
-.col-40 {
-
-  border: 2px black dotted;
-}
