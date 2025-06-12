@@ -115,6 +115,10 @@ button {
 
 }
 
+.divisore {
+  padding: 50px;
+}
+
 
 .cima {
   background-color: lightblue;
@@ -142,4 +146,9 @@ button {
 
 .click {
   gap: 20px;
+}
+
+.c-tabella {
+  width: calc(100% - 3);
+
 }
