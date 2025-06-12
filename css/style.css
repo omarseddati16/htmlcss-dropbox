@@ -3,3 +3,70 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+
+/* utili */
+
+.s-around {
+  justify-content: space-around;
+}
+
+.p-5 {
+  padding: 5px;
+}
+
+.c-white {
+  color: white;
+}
+
+.bg-blue {
+  background-color: rgb(16, 16, 235);
+}
+
+.a-end {
+  text-align: end;
+}
+
+.content-end {
+  justify-content: end;
+}
+
+.b-color {
+  background-color: black;
+}
+
+.contorno {
+  margin: 2px black dotted;
+}
+
+.m-top {
+  margin-top: 10px;
+}
+
+.i-block {
+  display: inline-block;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+/* Header */
+
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.left-50 {
+  width: 50%;
+}
+
+.right-50 {
+  width: 50%;
+}
