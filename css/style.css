@@ -4,8 +4,24 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: Arial, sans-serif;
+}
+
 
 /* utili */
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.a-center {
+  text-align: center;
+}
+
+.size {
+  font-size: 70px;
+}
 
 .s-around {
   justify-content: space-around;
@@ -58,6 +74,8 @@
 /* Header */
 
 
+
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -69,4 +87,25 @@
 
 .right-50 {
   width: 50%;
+}
+
+/* Main */
+
+.container-sezione {
+  background-color: #0f2192;
+}
+
+
+.col-60 {
+  width: 30%;
+}
+
+.col-40 {
+  width: 70%;
+}
+
+.col-60,
+.col-40 {
+
+  border: 2px black dotted;
 }
