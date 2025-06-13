@@ -71,9 +71,6 @@ body {
   background-color: black;
 }
 
-.contorno {
-  margin: 2px black dotted;
-}
 
 .m-top {
   margin-top: 10px;
@@ -190,4 +187,13 @@ li {
   border: 1px solid #ccc;
   border-radius: 8px;
   text-align: left;
+}
+
+.partner {
+  width: 600px;
+  height: 500px;
+}
+
+.border {
+  border: 2px black dotted;
 }
