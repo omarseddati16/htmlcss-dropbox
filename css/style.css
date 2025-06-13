@@ -197,3 +197,8 @@ li {
 .border {
   border: 2px black dotted;
 }
+
+.colonna {
+  width: calc((100% - 40px) / 3);
+  position: relative;
+}
