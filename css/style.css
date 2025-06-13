@@ -127,15 +127,10 @@ li {
   list-style-type: none
 }
 
-.c-tabella h4 {
-  text-align: center;
-
-}
 
 .c-tabella li {
   padding: 20px;
 }
-
 
 .divisore {
   padding: 50px;
@@ -152,6 +147,7 @@ li {
   gap: 50px;
   align-items: flex-start;
   width: 100%;
+
 }
 
 .jumbo {
@@ -175,7 +171,7 @@ li {
 }
 
 .c-tabella {
-  width: 30%;
+  width: 100%;
   background-color: white;
   padding: 25px;
   border: 1px solid #ccc;
@@ -185,4 +181,13 @@ li {
 
 .boder {
   border: 2px lightgray solid;
+}
+
+.tabella-sotto {
+  flex-basis: 100%;
+  background-color: white;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: left;
 }
