@@ -194,9 +194,6 @@ li {
   height: 500px;
 }
 
-.border {
-  border: 2px black dotted;
-}
 
 .colonna {
   width: calc((100% - 40px) / 3);
@@ -207,4 +204,8 @@ li {
 
 .i-piccole {
   width: 100%;
+}
+
+.s-section {
+  margin-top: 200px;
 }
