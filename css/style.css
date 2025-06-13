@@ -129,6 +129,10 @@ li {
   padding: 20px;
 }
 
+.tabella-sotto {
+  padding: 20px;
+}
+
 .divisore {
   padding: 50px;
 }
@@ -170,7 +174,6 @@ li {
 .c-tabella {
   width: calc(100% / 3 - 30px);
   background-color: white;
-  padding: 25px;
   border: 1px solid #ccc;
   border-radius: 8px;
   text-align: left;
