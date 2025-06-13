@@ -201,4 +201,10 @@ li {
 .colonna {
   width: calc((100% - 40px) / 3);
   position: relative;
+  width: 300px;
+
+}
+
+.i-piccole {
+  width: 100%;
 }
