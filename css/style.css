@@ -171,7 +171,7 @@ li {
 }
 
 .c-tabella {
-  width: 100%;
+  width: calc(100% / 3 - 30px);
   background-color: white;
   padding: 25px;
   border: 1px solid #ccc;
@@ -184,7 +184,7 @@ li {
 }
 
 .tabella-sotto {
-  flex-basis: 100%;
+  width: 1172px;
   background-color: white;
   padding: 25px;
   border: 1px solid #ccc;
