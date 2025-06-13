@@ -211,6 +211,14 @@ li {
 }
 
 /* Footer */
+.testo h3 {
+  margin-bottom: 40px;
+}
+
+.testo li {
+  margin-bottom: 15px;
+}
+
 
 .testo {
   width: 20%;
