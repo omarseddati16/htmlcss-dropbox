@@ -127,6 +127,14 @@ li {
   list-style-type: none
 }
 
+.c-tabella h4 {
+  text-align: center;
+
+}
+
+.c-tabella li {
+  padding: 20px;
+}
 
 
 .divisore {
@@ -167,7 +175,7 @@ li {
 }
 
 .c-tabella {
-  flex-basis: 30%;
+  width: 30%;
   background-color: white;
   padding: 25px;
   border: 1px solid #ccc;
